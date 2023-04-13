@@ -1,2 +1,3 @@
-# bookshelf-api-dicoding
-Bookshelf API for Dicoding Course Final Submission
+# Bookshelf API for Dicoding
+<br/>
+Bookshelf API for dicoding course. Built using Node.js with Hapi Framework.
